@@ -1,0 +1,2 @@
+# BLOOD-CELLS-COUNTING-AND-CLASSIFICATION-USING-MICROSCOPIC-IMAGES
+Blood is a vital fluid containing RBCs,  WBCs, and platelets, each playing a crucial role in body functions.  Accurate counting and classification of blood cells are  for diagnosing diseases like anemia, and other hematological disorders.Digital image processing techniques can automate this process using microscopic blood smear images.
